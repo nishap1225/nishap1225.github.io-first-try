@@ -8,7 +8,8 @@ Pleasanton, California 94588
 (925) 353 - 4497  
 nisha.p@berkeley.edu  
 
-> Student at UC Berkeley majoring in Electrical Engineering and Computer Science seeking summer 2021 internship.  
+> Student at UC Berkeley majoring in Electrical Engineering and Computer Science seeking summer 2021 internship.   
+
 ## Education
 ### University of California, Berkeley  
 **Major:** *Electrical Engineering and Computer Science (EECS)*  
