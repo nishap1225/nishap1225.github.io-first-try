@@ -1,6 +1,5 @@
 ---
 title: "Nisha Prabhakar's Resumé"
-layout: resume
 ---
 
 # Nisha Prabhakar
@@ -61,7 +60,7 @@ UC Berkeley
 ## Academic Projects
 ### uMaps
 TreeHacks (Stanford University)  
-*February 2020*
+<span>*February 2020*</span>
 - iOS application that integrates Google Maps with an indoor map of various buildings at university campuses
 - Provides a comprehensive map of rooms within buildings and displays walking directions between rooms
 
@@ -73,10 +72,8 @@ TreeHacks (Stanford University)
 
 ## Awards
 ### Outstanding Achievement in Science
-**Sandia National Laboratories, Livermore, CA**
-Foothill High School
-*April 2018*  
+**Sandia National Laboratories, Livermore, CA**  
+Foothill High School, *April 2018*  
 ### National Merit Scholar
 **National Merit Scholarship Corporation**  
-Foothill High School  
-*March 2019*
+Foothill High School, *March 2019*
